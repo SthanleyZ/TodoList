@@ -1,0 +1,74 @@
+.Input{
+    color:"#444444";
+}
+
+.todoForm{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.MuiFormControl-root{
+    flex-grow: 1;
+}
+
+
+.MuiFormLabel-root.Mui-focused{
+color:#000 !important;
+} 
+
+.MuiFormLabel-root {
+    color: #000 !important;
+}
+
+.MuiInput-input{
+    color: #000 !important;
+}
+
+.MuiInput-underline:before {
+    border-bottom: 1px solid #000 !important;  
+}
+
+.MuiFormControl-root{
+    width: 90%;
+}
+
+.IconLi{
+    color: #444444; 
+}
+
+
+.TodoLine{
+    display: flex;
+    flex-direction: inherit;
+}
+
+.Icons svg{
+    height: 40px;
+    width: 40px;
+}
+
+
+.MuiList-root{
+    margin-top: 40px !important;
+    background-color: #ffffff;
+}
+
+h3{
+    padding: 8px;
+    font-weight: unset;
+    padding-left: 40px;
+}
+
+.MuiCheckbox-colorSecondary.Mui-checked{
+   color: #536dfe !important;
+}
+
+.MuiListItem-container {
+    border-bottom: 1px solid #444;
+}
+
+.MuiCheckbox-root {
+    border-right: 1px solid black !important;
+    border-radius: 1px !important;
+}
